@@ -1,0 +1,4 @@
+.chat-app__msgsContainer {
+    height:700px;
+    overflow-y: auto;
+}
