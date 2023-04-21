@@ -7,12 +7,12 @@ import Login from './Login'
 
 function App() {
   return (
-    <div className="App">
+    <div className="App vh-100">
       <FireChatApp />
-      <Routes>
+      {/* <Routes>
           <Route path="/" element={<ChatApp />} />
           <Route path="/login" element={<Login />} />
-        </Routes>
+        </Routes> */}
     </div>
   )
 }
